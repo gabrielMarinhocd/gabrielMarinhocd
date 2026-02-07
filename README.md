@@ -139,6 +139,8 @@ Tenho experiência prática na manutenção e evolução de sistemas, correção
     </a>
 </div>
 
+![Snake animation](https://github.com/gabrielMarinhocd/gabrielMarinhocd/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## 📫 Contatos e Portfolio
