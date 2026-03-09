@@ -69,6 +69,13 @@ Tenho experiência prática na manutenção e evolução de sistemas, correção
 ## 🗂️ Principais Projetos
 
 <div >
+<a href="https://github.com/gabrielMarinhocd/financial-control" target="_blank">
+  <img src="https://gabrielmsantos.com.br/images/projects-imgs/financial-control.png" width="170" height="170" alt="Teigetour"/>
+</a>
+
+<a href="https://github.com/gabrielMarinhocd/api_node_jwt_swagger" target="_blank">
+  <img src="https://gabrielmsantos.com.br/images/projects-imgs/api_node_jwt_swagger.png" width="170" height="170" alt="Teigetour"/>
+</a>
 
 <a href="https://github.com/gabrielMarinhocd/ProjetoAWP" target="_blank">
   <img src="https://gabrielmsantos.com.br/images/projects-imgs/assistencia_awp.png" width="170" height="170" alt="Teigetour"/>
