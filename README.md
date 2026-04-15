@@ -30,7 +30,7 @@ Tenho experiência prática na manutenção e evolução de sistemas, correção
 ## 🛠️ Tecnologias e Ferramentas
 
 ### Front-end
-<div>
+<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -42,21 +42,21 @@ Tenho experiência prática na manutenção e evolução de sistemas, correção
 </div>
 
 ### Back-end
-<div>
+<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
 </div>
 
 ### Banco de Dados
-<div>
+<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/>
 </div>
 
 ### Ferramentas e Cloud
-<div>
+<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
