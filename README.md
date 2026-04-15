@@ -2,27 +2,26 @@
 
 ## Bem-vindo(a) ao meu perfil no GitHub 🚀
 
-Sou desenvolvedor com foco em desenvolvimento web, atuando tanto no **front-end** quanto no **back-end**. Possuo experiência na manutenção e evolução de sistemas, correção de bugs e implementação de novas funcionalidades, sempre priorizando o entendimento das necessidades do usuário antes de desenvolver soluções.
+💻 Sou desenvolvedor com foco em **desenvolvimento web**, atuando tanto no **front-end** quanto no **back-end**. Possuo experiência na manutenção e evolução de sistemas, correção de bugs 🐞 e implementação de novas funcionalidades, sempre priorizando o entendimento das necessidades do usuário antes de desenvolver soluções.
 
-Atuo como Analista Desenvolvedor **Java/Node.js/Angular** há mais de 3 anos. Sou graduado em ** Análise e Desenvolvimento de Sistemas** e atualmente estou cursando **Especialização em Java** pela UTFPR.
+🚀 Atuo como Analista Desenvolvedor Java/Node.js/Angular há mais de 3 anos. Sou graduado em **Análise e Desenvolvimento de Sistemas 🎓** e atualmente estou cursando **Especialização em Java pela UTFPR**.
 
-Busco uma oportunidade para atuar no desenvolvimento de sistemas web, com foco na criação de soluções completas. Ao longo da minha trajetória, já desenvolvi diversos sistemas, participando de todas as etapas do processo, incluindo:
+🎯 Busco uma oportunidade para atuar no **desenvolvimento de sistemas web**, com foco na criação de soluções completas. Ao longo da minha trajetória, já desenvolvi diversos sistemas, participando de todas as etapas do processo, incluindo:
 
-- Levantamento de requisitos
-- Desenvolvimento de MVP
-- Criação de interfaces (front-end)
-- Implementação do back-end
-- Documentação
-- Apresentação para stakeholders
-- Deploy em produção
+- 📌 Levantamento de requisitos
+- ⚡ Desenvolvimento de MVP
+- 🎨 Criação de interfaces (front-end)
+- 🛠️ Implementação do back-end
+- 📝 Documentação
+- 📊 Apresentação para stakeholders
+- 🚀 Deploy em produção
 
-Sou uma pessoa proativa, colaborativa e gosto de participar ativamente de todas as fases do projeto, contribuindo com o time sempre que possível.
+🤝 Sou uma pessoa proativa, colaborativa e gosto de participar ativamente de todas as fases do projeto, contribuindo com o time sempre que possível.
 
-Atualmente, estou disponível para atuar de forma remota ou presencial.
-
+📍 Atualmente, estou disponível para atuar de forma remota ou presencial.
 ---
 
-### 👨‍💻 Sobre mim
+### 👨‍💻 Mais Sobre mim
 - 🔭 Atualmente em busca de novas oportunidades como **Desenvolvedor Full Stack** focado em sistemas WEB.
 - 🌱 Estudando e me aprofundando em **Java / Java EE / Spiring Boot  / Typescript / Angular / AWS / Docker**
 - 💼 Experiência profissional com sistemas corporativos, e-comerces e apps mobile.
