@@ -75,72 +75,35 @@ Tenho experiência prática na manutenção e evolução de sistemas, correção
 
 ## 🗂️ Principais Projetos
 
-<div >
-<a href="https://github.com/gabrielMarinhocd/financial-control" target="_blank">
-  <img src="https://gabrielmsantos.com.br/images/projects-imgs/financial-control.png" width="170" height="170" alt="Teigetour"/>
-</a>
+<table border="0" cellspacing="10">
+  <tr>
+    <td><a href="https://github.com/gabrielMarinhocd/financial-control" target="_blank"><img src="https://gabrielmsantos.com.br/images/projects-imgs/financial-control.png" width="170"></a></td>
+    <td><a href="https://github.com/gabrielMarinhocd/api_node_jwt_swagger" target="_blank"><img src="https://gabrielmsantos.com.br/images/projects-imgs/api_node_jwt_swagger.png" width="170"></a></td>
+    <td><a href="https://github.com/gabrielMarinhocd/ProjetoAWP" target="_blank"><img src="https://gabrielmsantos.com.br/images/projects-imgs/assistencia_awp.png" width="170"></a></td>
+    <td><a href="https://teigetour.com.br/" target="_blank"><img src="https://teigetour.com.br/wp-content/uploads/2023/01/logo-teigetour.png" width="170"></a></td>
+  </tr>
 
-<a href="https://github.com/gabrielMarinhocd/api_node_jwt_swagger" target="_blank">
-  <img src="https://gabrielmsantos.com.br/images/projects-imgs/api_node_jwt_swagger.png" width="170" height="170" alt="Teigetour"/>
-</a>
+  <tr>
+    <td><a href="https://github.com/gabrielMarinhocd/backend-order-map" target="_blank"><img src="https://gabrielmsantos.com.br/images/projects-imgs/order-map.jpg" width="170"></a></td>
+    <td><a href="https://github.com/gabrielMarinhocd/Personal_website" target="_blank"><img src="https://gabrielmsantos.com.br/images/projects-imgs/personal-website.jpg" width="170"></a></td>
+    <td><a href="https://github.com/gabrielMarinhocd/App_Mata_Mosquito" target="_blank"><img src="https://gabrielmsantos.com.br/images/projects-imgs/app-mata-mosquito.jpg" width="170"></a></td>
+    <td><a href="https://github.com/gabrielMarinhocd/App_Pesquisa-de-usuarios" target="_blank"><img src="https://gabrielmsantos.com.br/images/projects-imgs/pesquisa_de_usuarios.jpg" width="170"></a></td>
+  </tr>
 
-<a href="https://github.com/gabrielMarinhocd/ProjetoAWP" target="_blank">
-  <img src="https://gabrielmsantos.com.br/images/projects-imgs/assistencia_awp.png" width="170" height="170" alt="Teigetour"/>
-</a>
+  <tr>
+    <td><a href="https://github.com/gabrielMarinhocd/Personal_website/tree/master/Projetos/pokedex-master" target="_blank"><img src="https://gabrielmsantos.com.br/images/projects-imgs/pokedex.jpg" width="170"></a></td>
+    <td><a href="https://github.com/gabrielMarinhocd/Controlhe-Financeiro-Pessoal" target="_blank"><img src="https://gabrielmsantos.com.br/images/projects-imgs/controlhe-finaceiro.jpg" width="170"></a></td>
+    <td><a href="https://github.com/gabrielMarinhocd/Personal_website/tree/master/Projetos/radio-podcast-pronto" target="_blank"><img src="https://gabrielmsantos.com.br/images/projects-imgs/radio_podcast.jpg" width="170"></a></td>
+    <td><a href="https://github.com/gabrielMarinhocd/Personal_website/tree/master/Projetos/Manipulando_cores" target="_blank"><img src="https://gabrielmsantos.com.br/images/projects-imgs/manipulador-cores.jpg" width="170"></a></td>
+  </tr>
 
-<a href="https://teigetour.com.br/" target="_blank">
-  <img src="https://teigetour.com.br/wp-content/uploads/2023/01/logo-teigetour.png" width="170" height="170" alt="Teigetour"/>
-</a>
-
-<a href="https://github.com/gabrielMarinhocd/backend-order-map" target="_blank">
-  <img src="https://gabrielmsantos.com.br/images/projects-imgs/order-map.jpg" width="170" height="170" alt="Order Map"/>
-</a>
-
-<a href="https://github.com/gabrielMarinhocd/Personal_website" target="_blank">
-  <img src="https://gabrielmsantos.com.br/images/projects-imgs/personal-website.jpg" width="170" height="170" alt="Site Pessoal"/>
-</a>
-
-<a href="https://github.com/gabrielMarinhocd/App_Mata_Mosquito" target="_blank">
-  <img src="https://gabrielmsantos.com.br/images/projects-imgs/app-mata-mosquito.jpg" width="170" height="170" alt="App Mata Mosquito"/>
-</a>
-
-<a href="https://github.com/gabrielMarinhocd/App_Pesquisa-de-usuarios" target="_blank">
-  <img src="https://gabrielmsantos.com.br/images/projects-imgs/pesquisa_de_usuarios.jpg" width="170" height="170" alt="Pesquisa de Usuários"/>
-</a>
-
-<a href="https://github.com/gabrielMarinhocd/Personal_website/tree/master/Projetos/pokedex-master" target="_blank">
-  <img src="https://gabrielmsantos.com.br/images/projects-imgs/pokedex.jpg" width="170" height="170" alt="Pokedex"/>
-</a>
-
-<a href="https://github.com/gabrielMarinhocd/Controlhe-Financeiro-Pessoal" target="_blank">
-  <img src="https://gabrielmsantos.com.br/images/projects-imgs/controlhe-finaceiro.jpg" width="170" height="170" alt="Controle Financeiro"/>
-</a>
-
-<a href="https://github.com/gabrielMarinhocd/Personal_website/tree/master/Projetos/radio-podcast-pronto" target="_blank">
-  <img src="https://gabrielmsantos.com.br/images/projects-imgs/radio_podcast.jpg" width="170" height="170" alt="Rádio Podcast"/>
-</a>
-
-<a href="https://github.com/gabrielMarinhocd/Personal_website/tree/master/Projetos/Manipulando_cores" target="_blank">
-  <img src="https://gabrielmsantos.com.br/images/projects-imgs/manipulador-cores.jpg" width="170" height="170" alt="Manipulador de Cores"/>
-</a>
-
-<a href="https://github.com/gabrielMarinhocd/React-countries" target="_blank">
-  <img src="https://gabrielmsantos.com.br/images/projects-imgs/react-countries.jpg" width="170" height="170" alt="React Countries"/>
-</a>
-
-<a href="https://github.com/gabrielMarinhocd/React-salary" target="_blank">
-  <img src="https://gabrielmsantos.com.br/images/projects-imgs/react-salary.jpg" width="170" height="170" alt="React Salary"/>
-</a>
-
-<a href="https://github.com/gabrielMarinhocd/Rect-Juros-Compostos" target="_blank">
-  <img src="https://gabrielmsantos.com.br/images/projects-imgs/rect_juros_compostos.jpg" width="170" height="170" alt="React Juros Compostos"/>
-</a>
-
-<a href="https://github.com/gabrielMarinhocd/Personal_website/tree/master/Projetos/Brasileir%C3%A3o" target="_blank">
-  <img src="https://gabrielmsantos.com.br/images/projects-imgs/tabela-brasileiro.jpg" width="170" height="170" alt="Tabela do Brasileirão"/>
-</a>
-
-</div>
+  <tr>
+    <td><a href="https://github.com/gabrielMarinhocd/React-countries" target="_blank"><img src="https://gabrielmsantos.com.br/images/projects-imgs/react-countries.jpg" width="170"></a></td>
+    <td><a href="https://github.com/gabrielMarinhocd/React-salary" target="_blank"><img src="https://gabrielmsantos.com.br/images/projects-imgs/react-salary.jpg" width="170"></a></td>
+    <td><a href="https://github.com/gabrielMarinhocd/Rect-Juros-Compostos" target="_blank"><img src="https://gabrielmsantos.com.br/images/projects-imgs/rect_juros_compostos.jpg" width="170"></a></td>
+    <td><a href="https://github.com/gabrielMarinhocd/Personal_website/tree/master/Projetos/Brasileir%C3%A3o" target="_blank"><img src="https://gabrielmsantos.com.br/images/projects-imgs/tabela-brasileiro.jpg" width="170"></a></td>
+  </tr>
+</table>
 
 ---
 
