@@ -4,7 +4,7 @@
 
 💻 Sou desenvolvedor com foco em **desenvolvimento web**, atuando tanto no **front-end** quanto no **back-end**. Possuo experiência na manutenção e evolução de sistemas, correção de bugs 🐞 e implementação de novas funcionalidades, sempre priorizando o entendimento das necessidades do usuário antes de desenvolver soluções.
 
-🚀 Atuo como Analista Desenvolvedor Java/Node.js/Angular há mais de 3 anos. Sou graduado em **Análise e Desenvolvimento de Sistemas 🎓** e atualmente estou cursando **Especialização em Java pela UTFPR**.
+🚀 Atuo como **Analista Desenvolvedor Java/Node.js/Angular há mais de 3 anos**. Sou graduado em **Análise e Desenvolvimento de Sistemas 🎓** e atualmente estou cursando **Especialização em Java pela UTFPR**.
 
 🎯 Busco uma oportunidade para atuar no **desenvolvimento de sistemas web**, com foco na criação de soluções completas. Ao longo da minha trajetória, já desenvolvi diversos sistemas, participando de todas as etapas do processo, incluindo:
 
@@ -19,6 +19,7 @@
 🤝 Sou uma pessoa proativa, colaborativa e gosto de participar ativamente de todas as fases do projeto, contribuindo com o time sempre que possível.
 
 📍 Atualmente, estou disponível para atuar de forma remota ou presencial.
+
 ---
 
 ### 👨‍💻 Mais Sobre mim
